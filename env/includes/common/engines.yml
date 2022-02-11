@@ -59,7 +59,7 @@ common.engines.tk-vred.location:
 common.engines.tk-desktop.location:
   type: dev
   mac_path: /Users/ariel.calzada/instances/github.com/000paradox000/shotgunsoftware/tk-desktop
-  windows_path: /Users/ariel.calzada/instances/github.com/000paradox000/shotgunsoftware/tk-desktop
+  windows_path: E:\instances\github.com\000paradox000\shotgunsoftware\tk-desktop
 common.engines.tk-desktop2.location:
   type: app_store
   name: tk-desktop2
