@@ -42,11 +42,17 @@ frameworks:
       version: v1.1.1
       type: app_store
       name: tk-framework-widget
+#  tk-framework-desktopserver_v1.x.x:
+#    location:
+#      version: v1.5.2
+#      type: app_store
+#      name: tk-framework-desktopserver
   tk-framework-desktopserver_v1.x.x:
     location:
-      version: v1.5.2
-      type: app_store
-      name: tk-framework-desktopserver
+      branch: SG-25747_security_cve_2022_21712_tk_framework_desktopserver
+      version: 5ae08c1
+      type: git_branch
+      path: https://github.com/shotgunsoftware/tk-framework-desktopserver.git
   tk-framework-desktopclient_v0.x.x:
     location:
       version: v0.3.1
