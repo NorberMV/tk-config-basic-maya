@@ -12,11 +12,17 @@
 # all the frameworks required by the config are defined here.
 
 frameworks:
+  #tk-framework-adobe_v1.x.x:
+  #  location:
+  #    type: app_store
+  #    name: tk-framework-adobe
+  #    version: v1.1.4
   tk-framework-adobe_v1.x.x:
     location:
-      type: app_store
-      name: tk-framework-adobe
-      version: v1.1.4
+      type: git_branch
+      path: https://github.com/shotgunsoftware/tk-framework-adobe.git
+      branch: SG-24868_Fix_Harmony_scan_problems_with_Shotgun_Desktop
+      version: 6c98209e0751a458d495cd0bd43c52abc3505b7b
   tk-framework-qtwidgets_v2.x.x:
     location:
       version: v2.10.2
