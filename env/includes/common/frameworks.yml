@@ -56,7 +56,7 @@ frameworks:
   tk-framework-desktopserver_v1.x.x:
     location:
       branch: SG-25747_security_cve_2022_21712_tk_framework_desktopserver
-      version: 14eb72c5
+      version: de3f23fe
       type: git_branch
       path: https://github.com/shotgunsoftware/tk-framework-desktopserver.git
   tk-framework-desktopclient_v0.x.x:
