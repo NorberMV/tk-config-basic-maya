@@ -22,7 +22,7 @@ frameworks:
       type: git_branch
       path: https://github.com/shotgunsoftware/tk-framework-adobe.git
       branch: SG-24868_Fix_Harmony_scan_problems_with_Shotgun_Desktop
-      version: 266eed0e
+      version: e655549463cee68f52f04ea2182e6576520b9182
   tk-framework-qtwidgets_v2.x.x:
     location:
       version: v2.10.2
