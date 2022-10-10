@@ -53,9 +53,11 @@ common.engines.tk-vred.location:
   name: tk-vred
   version: v2.1.4
 common.engines.tk-desktop.location:
-  type: app_store
-  name: tk-desktop
-  version: v2.6.4
+  type: dev
+  path: E:\instances\github.com\000paradox000\shotgunsoftware\tk-desktop
+  #  type: app_store
+  #  name: tk-desktop
+  #  version: v2.6.4
 common.engines.tk-desktop2.location:
   type: app_store
   name: tk-desktop2
