@@ -14,5 +14,5 @@
 location:
   type: dev
   linux_path: ~/git/sgtk/tk-core
-  macos_path: ~/git/sgtk/tk-core
+  mac_path: ~/git/sgtk/tk-core
   name: tk-core
