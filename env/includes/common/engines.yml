@@ -53,9 +53,10 @@ common.engines.tk-vred.location:
   name: tk-vred
   version: v3.0.3
 common.engines.tk-desktop.location:
-  type: app_store
+  type: dev
+  linux_path: ~/git/sgtk/tk-desktop
+  macos_path: ~/git/sgtk/tk-desktop
   name: tk-desktop
-  version: v2.6.10
 common.engines.tk-desktop2.location:
   type: app_store
   name: tk-desktop2
