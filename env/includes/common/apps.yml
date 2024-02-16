@@ -24,8 +24,8 @@ common.apps.tk-multi-about:
     name: tk-multi-about
 common.apps.tk-multi-pythonconsole:
   location:
-    version: v1.3.2
-    type: app_store
+    type: dev
+    path: ~/git/sgtk/tk-multi-pythonconsole
     name: tk-multi-pythonconsole
 common.apps.tk-multi-setframerange:
   location:
@@ -41,9 +41,9 @@ common.apps.tk-multi-loader2.location:
   name: tk-multi-loader2
   version: v1.23.3
 common.apps.tk-multi-shotgunpanel.location:
-  type: app_store
+  type: dev
   name: tk-multi-shotgunpanel
-  version: v1.8.8
+  path: ~/git/sgtk/tk-multi-shotgunpanel
 common.apps.tk-multi-launchapp.location:
   type: app_store
   name: tk-multi-launchapp
