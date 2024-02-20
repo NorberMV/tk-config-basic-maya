@@ -19,9 +19,9 @@ frameworks:
       version: v1.1.10
   tk-framework-qtwidgets_v2.x.x:
     location:
-      version: v2.10.11
-      type: app_store
+      type: dev
       name: tk-framework-qtwidgets
+      path: ~/git/sgtk/tk-framework-qtwidgets
   tk-framework-shotgunutils_v4.x.x:
     location:
       version: v4.4.15
@@ -34,9 +34,9 @@ frameworks:
       name: tk-framework-shotgunutils
   tk-framework-adminui_v0.x.x:
     location:
-      version: v0.7.5
-      type: app_store
       name: tk-framework-adminui
+      type: dev
+      path: ~/git/sgtk/tk-framework-adminui
   tk-framework-widget_v1.x.x:
     location:
       version: v1.1.1
